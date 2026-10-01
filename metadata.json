@@ -1,0 +1,6 @@
+{
+  "name": "Soạn Giảng 2345 — Thiết kế Kế hoạch Bài dạy Tiểu học",
+  "description": "Ứng dụng hỗ trợ giáo viên tiểu học soạn kế hoạch bài dạy (giáo án) tự động bằng AI tuân thủ chặt chẽ cấu trúc Phụ lục 3 Công văn 2345/BGDĐT-GDTH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
